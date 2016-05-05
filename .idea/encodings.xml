@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test001_variable_read_print/testHelloWorld.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test002_if/testIf.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test003_for_while/test_for.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test003_for_while/test_while.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test004_function/testFunction.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test005_exception/testException.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test006_Array/testArray.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/zwj/test007_map/testMap.scala" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
