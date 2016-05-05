@@ -68,5 +68,6 @@ object testImplicitTransfer {
     //   隐 式 参 数
     testImplicitParam
 
+
   }
 }
