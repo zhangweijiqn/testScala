@@ -39,6 +39,9 @@ object testFunction {
     //filter:输出所有匹配某个特定条件的元素
     (1 to 9).filter( _%2 == 0).foreach(print _)
 
+    //filterNot:输出所有不匹配某个特定条件的元素
+    (1 to 9).filterNot(_%2 ==0).foreach(print _)
+
     //reduceLeft: 接收二元参数，应用到序列中所有元素，从左到右
     //第一个和第二个  _  代表不同的元素
     (1 to 9).reduceLeft(_+_)  //从做到右： ( ...( (1+2) +3) +4 ...
