@@ -152,8 +152,12 @@ object testArray {
 
 //    getArray
 //    testIterable
-    testIterable()
+//    testIterable()
     //scala数组与java数组可以相互转换
+
+    //取array中部分数组元素
+    (1 to 9).slice(2,6).foreach(print _)
+
   }
 
 }

@@ -54,7 +54,7 @@ object Account{
 
 
   def main(args:Array[String]): Unit ={
-    val account = Account(0.6)  //自动调用apply方法
+    val account = Account(0.6)  //把对象当做函数处理的时候，会自动调用apply函数,Account(0.6)==> Account.apply(0.6)
     val arr = Array("hello","world")  //调用伴生对象apply方法，这里没有使用new Array()
 //    val Account(balance) = account  //调用Account.unapply,返回一个balance值赋给Account参数
   }
