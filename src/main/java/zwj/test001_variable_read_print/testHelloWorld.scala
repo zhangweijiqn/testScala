@@ -4,8 +4,8 @@ package zwj.test001_variable_read_print
  * Created by Administrator on 2015/12/21 0021.
  */
 object testHelloWorld {
-  def main(args: Array[String]) {
 
+  def test(): Unit ={
     //variable define: String (StringOps),Byte,Char,Short,Int,Long,Float,Double,BigInt,BigDecimal: Any
     val counter = 0 //define a constant variable
     //  val counter //error,a variable must be initialized
@@ -43,5 +43,10 @@ object testHelloWorld {
     val bigNumber:BigInt=BigInt.probablePrime(100,scala.util.Random)
     println(bigNumber)
     println(bigNumber.toString.charAt(3))
+  }
+  def main(args: Array[String]) {
+
+    test
+
   }
 }
