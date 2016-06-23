@@ -17,7 +17,8 @@ object baseTest {
     //test Option class,Option可以代表一个不存在的值 None,存在的为Some
     val data = if(Str.isEmpty)None else Some(Str)
     println(data) //Some(abc	def	ghi)
-    println(data.get) //abc	def	ghi
+    println(data.get) //abc	def	ghi,如果data为None，这里会抛异常：java.util.NoSuchElementException: None.get
+    println(data.getOrElse("a"))  //推荐该方式，data为None时，返回"a",传入多个参数("a","b","c")，返回(a,b,c)
 
   }
 
