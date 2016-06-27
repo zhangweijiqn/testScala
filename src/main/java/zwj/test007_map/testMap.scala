@@ -75,5 +75,7 @@ object testMap {
     val map2 = pairs.toMap
     println(map2)
 
+    val indexedCounts = counts.zipWithIndex //zipWithIndex函数将元素和其所在的下标组成一个pair
+    println(indexedCounts)
   }
 }

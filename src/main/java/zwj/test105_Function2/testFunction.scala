@@ -48,6 +48,9 @@ object testFunction {
 
     //sortWith
     "Mary has a little lamb".split(" ").sortWith( _.length < _.length).foreach(println)
+
+    //zipWithIndex函数将元素和其所在的下标组成一个pair
+    println((1 to 9).zipWithIndex)  //Vector((1,0), (2,1), (3,2), (4,3), (5,4), (6,5), (7,6), (8,7), (9,8))
   }
 
   def main(args:Array[String]): Unit ={
