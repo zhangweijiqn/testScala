@@ -147,6 +147,16 @@ object testArray {
     return false
   }
 
+  def testList(): Unit ={
+    //取array中部分数组元素
+    (1 to 9).slice(2,6).foreach(print _)
+    println
+
+    val list = List(1, 2, 3, 4, 5)
+    val combs = list.combinations(3)  //生成2元子列表, C(5,3)=10种组合
+    combs.foreach(println)
+
+  }
 
   def main(args:Array[String]): Unit ={
 
@@ -155,8 +165,8 @@ object testArray {
 //    testIterable()
     //scala数组与java数组可以相互转换
 
-    //取array中部分数组元素
-    (1 to 9).slice(2,6).foreach(print _)
+    testList()
+
 
   }
 

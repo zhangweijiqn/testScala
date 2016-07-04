@@ -52,6 +52,7 @@ object testFunction {
     //zipWithIndex函数将元素和其所在的下标组成一个pair
     println((1 to 9).zipWithIndex)  //index加到了第二个位置，Vector((1,0), (2,1), (3,2), (4,3), (5,4), (6,5), (7,6), (8,7), (9,8))
     println((11 to 19).zipWithIndex.map(_.swap))  //Vector((0,11), (1,12), (2,13), (3,14), (4,15), (5,16), (6,17), (7,18), (8,19))
+
   }
 
   def main(args:Array[String]): Unit ={
