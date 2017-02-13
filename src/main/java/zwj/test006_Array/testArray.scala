@@ -156,6 +156,9 @@ object testArray {
     val combs = list.combinations(3)  //生成2元子列表, C(5,3)=10种组合
     combs.foreach(println)
 
+    val sortData = (1 to 9).map(x=>(x,10-x)).sortBy(_._1).reverse //sortBy默认从小到大，reverse从大到小
+    sortData.foreach(println)
+
   }
 
   def main(args:Array[String]): Unit ={

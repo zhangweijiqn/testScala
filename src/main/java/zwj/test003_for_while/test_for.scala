@@ -56,5 +56,9 @@ object test_for {
     //for推导式
     val data = for(i<- 1 to 10)yield i%3
     println("data = "+data) //data = Vector(1, 2, 0, 1, 2, 0, 1, 2, 0, 1)
+
+    // 步长>1
+    val seq = for (i <- 1 to 100 by 5) yield i
+    println("seq="+seq)
   }
 }
