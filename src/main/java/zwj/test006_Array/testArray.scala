@@ -67,6 +67,9 @@ object testArray {
     println
     for(e<-b)print(e+" ")
 
+    //数组去重
+    val distinctList = b.distinct
+
     //判断数组是否可以被重复遍历（scala存在数组遍历完为空的情况）
     println("e is traveled again:"+e.isTraversableAgain)  //false,只能遍历一次
     println("d is traveled again:"+d.isTraversableAgain)  //false,只能遍历一次
@@ -95,7 +98,7 @@ object testArray {
     val matrix = Array.ofDim[Double](3,4)
     for(i<- 0 until 3;j<- 0 until 4)
     {
-      matrix(i)(j)=i*j;
+      matrix(i)(j)=i*j
       print(matrix(i)(j)+",")
     }
 
