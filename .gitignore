@@ -6,6 +6,4 @@ src/main/resources/*.jar
 src/main/resources/data/
 *.iml
 rec.log*
-
-src/main/resources/
 src/test/
