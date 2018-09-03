@@ -17,6 +17,8 @@ object testArray {
 
     var activeRuns = new ArrayBuffer[Int] ++ (0 until numRuns)  //初始化元素值为0到numRuns
     activeRuns.foreach(println)
+
+    var parellArr = activeRuns.par    //Returns a parallel implementation of this collection.
   }
 
 
