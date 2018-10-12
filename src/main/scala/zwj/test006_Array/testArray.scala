@@ -164,6 +164,9 @@ object testArray {
     sortData.foreach(println)
     println(list.contains(1))
 
+    val arr = list.toArray
+    arr.filterNot(x=>x==1).foreach(println)
+
   }
 
   def main(args:Array[String]): Unit ={
