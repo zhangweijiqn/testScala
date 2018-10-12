@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af4727ff-4103-4478-9bb5-54450d38b885" name="Default" comment="test list combinations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScalaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScalaTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/zwj/test001_variable_read_print/baseTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/zwj/test001_variable_read_print/baseTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/zwj/test100_Enum/testEnumeration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/zwj/test100_Enum/testEnumeration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala" afterDir="false" />
     </list>
     <ignored path="ScalaTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,30 +23,30 @@
     <session id="-1275500117">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="5" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="scala" value="6" />
+          <entry key="scala" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="6" />
+          <entry key="Scala" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="362" />
+          <entry key="scala" value="453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="362" />
+          <entry key="Scala" value="453" />
         </counts>
       </usages-collector>
     </session>
@@ -61,19 +57,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ScalaTest.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="387">
+              <caret line="167" column="43" selection-start-line="167" selection-start-column="43" selection-end-line="167" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2280">
-              <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+            <state relative-caret-position="366">
+              <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -123,10 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="255">
               <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
             </state>
           </provider>
@@ -173,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zwj/test008_class/testClass.java" />
         <option value="$PROJECT_DIR$/src/zwj/test008_class/myprog.properties" />
         <option value="$PROJECT_DIR$/src/zwj/test008_class/testClass.scala" />
         <option value="$PROJECT_DIR$/src/zwj/test101_Enum/testEnum.scala" />
@@ -221,9 +216,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/scala/zwj/test100_Enum/testEnum.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/zwj/test100_Enum/testEnumeration.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/zwj/test001_variable_read_print/baseTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala" />
       </list>
     </option>
   </component>
@@ -251,7 +247,7 @@
     </treeState>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="800" />
@@ -263,6 +259,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -332,19 +331,25 @@
               <item name="zwj" type="462c0819:PsiDirectoryNode" />
               <item name="test009_object" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testScala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testScala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="zwj" type="462c0819:PsiDirectoryNode" />
+              <item name="test107_Match" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539312157529" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539338429435" />
     <property name="dynamic.classpath" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -376,7 +381,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testArray">
+  <component name="RunManager" selected="Application.testMatch">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -977,6 +982,8 @@
       <workItem from="1537271444900" duration="360000" />
       <workItem from="1537276381025" duration="6000" />
       <workItem from="1539310969095" duration="101000" />
+      <workItem from="1539312057511" duration="154000" />
+      <workItem from="1539338327992" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="test filterNot">
       <created>1466585545103</created>
@@ -1045,12 +1052,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217767000" />
+    <option name="totallyTimeSpent" value="218042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25107297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25822604" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1060,13 +1068,13 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3376344" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32094175" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32094175" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892474" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2788104" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2788104" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32713756" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -1196,13 +1204,6 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/collection/mutable/HashSet.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/Option.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/collection/mutable/HashMap.class" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test106_Set/testMap.scala">
@@ -1304,9 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#211#232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,13 +1312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1352,6 +1343,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test001_variable_read_print/baseTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test005_exception/testException.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1366,17 +1371,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test001_variable_read_print/baseTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test006_Array/testArray.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="387">
+          <caret line="167" column="43" selection-start-line="167" selection-start-column="43" selection-end-line="167" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test007_map/testMap.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/zwj/test107_Match/testMatch.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="366">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
         </state>
       </provider>
     </entry>

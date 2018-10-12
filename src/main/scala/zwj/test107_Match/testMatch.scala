@@ -37,6 +37,14 @@ object testMatch {
     }
   }
 
+  // 类型匹配
+  def testMatchType2(obj:Any):String={
+    obj match{
+      case x:Int => "Int"
+      case s:String => "String"
+    }
+  }
+
   def testCaseClass(): Unit ={
     //简单的将case class用作函数，不用new，继承的 Product类，Product是tuple（元组）的父类
     case class Person(name:String)
@@ -92,5 +100,6 @@ object testMatch {
     //偏函数
     println(f('-'))
 
+    println(testMatchType2(1.005))  //异常
   }
 }
