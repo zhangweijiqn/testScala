@@ -15,6 +15,8 @@ object testMap {
     // unmutable map  Map[String,Int]  Map底层数据结构tuple2
     val scores = Map("Alice"->10,"Bob"->3,("Cindy",8),vMap)
 
+    //println(scores("Tom"))  //直接取没有值的会抛出异常
+
     //mutable map Map[String,Int]
     val scores_m=scala.collection.mutable.Map("Alice"->10,"Bob"->3,("Cindy",8),vMap)
 

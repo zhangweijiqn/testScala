@@ -2,7 +2,7 @@ package zwj.test100_Enum
 
 object WeekDay extends Enumeration{
   type WeekDay = Value  //声明枚举对外暴露的变量类型
-  val Mon = Value               //默认id，从0开始
+  val Mon = Value(0,"a")               //默认id，从0开始
   val Tue = Value(1,"Tuesday")  //显式指定id和value
   val Wed = Value
   val Thu = Value

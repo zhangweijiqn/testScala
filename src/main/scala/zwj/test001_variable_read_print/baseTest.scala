@@ -20,6 +20,14 @@ object baseTest {
     println(data.get) //abc	def	ghi,如果data为None，这里会抛异常：java.util.NoSuchElementException: None.get
     println(data.getOrElse("a"))  //推荐该方式，data为None时，返回"a",传入多个参数("a","b","c")，返回(a,b,c)
 
+    val Str2 = Array[Int]()
+    val data2 = if(Str2.isEmpty)None else Some(Str2)
+    if (data2 equals None) {
+      println("None")
+    } else {
+      println("not None")
+    }
+
   }
 
   def main(args: Array[String]) {

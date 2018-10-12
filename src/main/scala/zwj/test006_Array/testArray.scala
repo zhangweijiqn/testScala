@@ -162,6 +162,7 @@ object testArray {
 
     val sortData = (1 to 9).map(x=>(x,10-x)).sortBy(_._1).reverse //sortBy默认从小到大，reverse从大到小
     sortData.foreach(println)
+    println(list.contains(1))
 
   }
 
